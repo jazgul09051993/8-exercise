@@ -1,0 +1,15 @@
+.error-message{
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(245, 181, 212);
+ 
+ }
+ 
+ .hidden {
+    display: none;
+ }
